@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\bin\Debug\net6.0\Experiencias.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\bin\Debug\net6.0\Experiencias.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\bin\Debug\net6.0\Experiencias.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\bin\Debug\net6.0\Experiencias.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\bin\Debug\net6.0\Experiencias.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\refint\Experiencias.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\Experiencias.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Experiencias\obj\Debug\net6.0\ref\Experiencias.dll
